@@ -6,9 +6,14 @@
     "ng": "ng",
     "start": "node server.js",
     "build": "ng build",
+<<<<<<< HEAD
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
+=======
+    
+    "test": "ng test"
+>>>>>>> c081222fbbd0b286660968974db1f583a64ad839
     
   },
   "private": true,
@@ -46,5 +51,9 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.5.2"
+  },
+  "engines": {
+    "node": "16.14.0",
+    "npm": "8.3.1"
   }
 }

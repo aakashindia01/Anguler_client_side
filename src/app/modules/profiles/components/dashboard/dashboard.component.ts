@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import { UsersService } from '../../../../services/users.service';
+<<<<<<< HEAD
+=======
+import { User } from 'src/app/interfaces/user';
+>>>>>>> c081222fbbd0b286660968974db1f583a64ad839
 import { LoadingService } from 'src/app/services/loading.service';
 
 
